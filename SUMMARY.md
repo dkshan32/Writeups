@@ -8,4 +8,5 @@
 
 ## 🤖 TryHackMe
 
-* [Page 3](tryhackme/page-3.md)
+* [🛅 Wreath](tryhackme/wreath/README.md)
+  * [10.94.200.94 | Linux](tryhackme/wreath/10.94.200.94-or-linux.md)
