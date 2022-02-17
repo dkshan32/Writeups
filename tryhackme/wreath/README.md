@@ -13,3 +13,5 @@ description: Vulnerable network by THM
 * There is a PC running on the network that has antivirus installed, meaning we can hazard a guess that this is likely to be Windows
 * By the sounds of it this is likely to be the server variant of Windows, which might work in our favour
 * The (assumed) Windows PC cannot be accessed directly from the webserver
+
+![](<../../.gitbook/assets/image (16).png>)
