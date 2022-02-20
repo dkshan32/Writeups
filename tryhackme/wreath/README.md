@@ -14,4 +14,4 @@ description: Vulnerable network by THM
 * By the sounds of it this is likely to be the server variant of Windows, which might work in our favour
 * The (assumed) Windows PC cannot be accessed directly from the webserver
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1).png>)
