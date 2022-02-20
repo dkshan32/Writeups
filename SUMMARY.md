@@ -1,6 +1,7 @@
 # Table of contents
 
-* [INDEX](README.md)
+* [🔰 TEMPLATE 10.X.X.X | OS](README.md)
+* [INDEX](<README (1).md>)
 
 ## 👾 HacktheBox
 
