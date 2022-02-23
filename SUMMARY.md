@@ -5,6 +5,7 @@
 
 ## 👾 HacktheBox
 
+* [🔰 Search - 10.10.11.129 | WIN](hackthebox/search-10.10.11.129-or-win.md)
 * [Page 2](hackthebox/page-2.md)
 
 ## 🤖 TryHackMe
